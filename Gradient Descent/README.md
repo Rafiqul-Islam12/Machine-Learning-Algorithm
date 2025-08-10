@@ -18,6 +18,9 @@ In Machine Learning, its main purpose is to **minimize the Cost Function (Loss F
 - **এখানে ক্যালকুলাস দিয়ে সরাসরি Minima বের করা প্রায় অসম্ভব।**
 - **Gradient Descent হলো ধাপে ধাপে মিনিমামের দিকে এগোনোর পদ্ধতি।**
 
+## Example    
+![Alt text](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Gradient%20Descent/images/img07.png)
+
 # Core Idea
 This straight line is represented using the following formula:            `y = mx + c`          
 ![Alt text](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Gradient%20Descent/images/image01.png)
