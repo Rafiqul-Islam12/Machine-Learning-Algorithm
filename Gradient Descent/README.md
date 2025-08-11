@@ -54,6 +54,6 @@ Let partial derivative of the Cost function with respect to c be Dc.
 We will repeat this process until our Cost function is very small (ideally 0).
 
 ---
-# Aurhor:
+# Author:
 **Md. Rafiqul Islam**      
 **CSE, CoU**
