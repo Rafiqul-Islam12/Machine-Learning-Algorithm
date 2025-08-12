@@ -90,13 +90,13 @@ We will repeat this process until our Cost function is very small (ideally 0).
 
 ### **Youtube Resources**  
 `Iftikhar Hasan`
-[Class-01](https://youtu.be/ccaH1gCVXiw?si=GH1XaWxZWLcqtNkY)
-[Class-02](https://youtu.be/YazrR76V2wQ?si=1BnWVe3H4YccwjUI)       
+[Class-01](https://youtu.be/ccaH1gCVXiw?si=Qvsk5ex7-JiNnRR-)
+[Class-02](https://youtu.be/YazrR76V2wQ?si=eVk7_Er5aciIsxdG)       
 
 `STUDY MART`
 [Class-01](https://youtu.be/5YNP5B5NtTw?si=iYKKLeRb3XQs-Q52)
 [Class-02](https://youtu.be/NG4P2V1hAb0?si=dkkejXGmh7NnxKEm)
-[Class-03](https://youtu.be/P_rSOHZETsM?si=jfEkQP9WK-o0Z2Kz) 
+[Class-03](https://youtu.be/P_rSOHZETsM?si=zCcjvU2OMcDJsjJD) 
 
 ---
 ## Author:
