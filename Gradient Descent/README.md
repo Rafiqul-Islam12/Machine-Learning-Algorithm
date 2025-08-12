@@ -88,14 +88,17 @@ We will repeat this process until our Cost function is very small (ideally 0).
 [01. Gradient Descent in Linear Regression](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Gradient%20Descent/01.%20Gradient%20Descent%20in%20Linear%20Regression.ipynb)                        
 [02. Gradient Descent in Linear Regression](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Gradient%20Descent/02.%20Gradient%20Descent%20in%20Linear%20Regression.ipynb)               
 
-### **Youtube Resources**
-1. https://www.youtube.com/watch?v=5YNP5B5NtTw&list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f&index=43 (STUDY MART)
-2. https://www.youtube.com/watch?v=NG4P2V1hAb0&list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw&index=34 (STUDY MART)
-3. https://www.youtube.com/watch?v=P_rSOHZETsM&list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f&index=47 (STUDY MART)
-   
-- https://www.youtube.com/watch?v=ccaH1gCVXiw&list=PL8l80y34wZVeF25ckbXoXuUqbIinER0NB&index=19 (Iftikhar Hasan)
-- https://www.youtube.com/watch?v=YazrR76V2wQ&list=PL8l80y34wZVeF25ckbXoXuUqbIinER0NB&index=20 (Iftikhar Hasan)
+### **Youtube Resources**  
+`Iftikhar Hasan`
+[Class-01](https://youtu.be/ccaH1gCVXiw?si=GH1XaWxZWLcqtNkY)
+[Class-02](https://youtu.be/YazrR76V2wQ?si=1BnWVe3H4YccwjUI)       
+
+`STUDY MART`
+[Class-01](https://youtu.be/5YNP5B5NtTw?si=iYKKLeRb3XQs-Q52)
+[Class-02](https://youtu.be/NG4P2V1hAb0?si=dkkejXGmh7NnxKEm)
+[Class-03](https://youtu.be/P_rSOHZETsM?si=jfEkQP9WK-o0Z2Kz) 
+
 ---
-# Author:
+## Author:
 **Md. Rafiqul Islam**      
 **CSE, CoU**
