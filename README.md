@@ -1,7 +1,13 @@
 # My Learning Roadmap
 
 # Important Syntex
-
+### ***Import Libraries***  
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 ### ***Train-Test Split***  
 ```python
 from sklearn.model_selection import train_test_split
@@ -25,7 +31,8 @@ model.score(X_train,y_train)
 
 ### ***Confusion Matrix***  
 ```python
-from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, precision_score, recall_score, f1_score
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score,
+                            precision_score, recall_score, f1_score
 ```
 ```python
 cm = confusion_matrix(actual,predicted)
