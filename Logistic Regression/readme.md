@@ -24,7 +24,13 @@
 ***- Probability of Class 1 = 23%***   
 ***- Since it’s less than 0.5 → Predict NO (Class 0)***  
 
-<img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Logistic%20Regression/images/img02.png" width="700">   
+<img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Logistic%20Regression/images/img02.png" width="700">  
+
+
+## **Types of Logistic Regression**
+**`Binary Logistic Regression`**: **The target variable has only two possible outcomes such as Spam or Not Spam.**  
+**`Multinomial Logistic Regression`**: **The target variable has three or more nominal categories, such as predicting the type of Wine.**  
+**`Ordinal Logistic Regression`**: **The target variable has three or more ordinal categories, such as product rating from 1 to 5.**  
 
 ## Author
 ### **Md. Rafiqul Islam**
