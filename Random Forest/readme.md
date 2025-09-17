@@ -31,9 +31,27 @@
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Random%20Forest/images/img02.png" width="720">  
 
 ---
+### ***Out-of-Bag (OOB) Evaluation in Random Forest***
+***In Random Forest, each tree is trained on a `random subset of rows` (with replacement).***   
+***Some rows are never selected in this subset.***   
+***These unused rows are called `Out-of-Bag (OOB)` samples.***   
+
+#### ***`OOB Evaluation`***
+***1. For each tree:***  
+   - ***Use the OOB samples (rows not used for training that tree) to make predictions.***   
+    
+***2. Combine predictions from all trees for each OOB sample:***
+   - ***Classification: Majority vote***  
+   - ***Regression: Averaging(Mean)***
+
+***3. Compare predictions with actual labels to compute OOB Score or OOB Error.***  
+   - ***OOB Score: Accuracy (for classification) or R² (for regression) on OOB samples.***
+   - ***OOB Error = 1 - OOB Score***
+---
 ### ***Decision Tree vs Random Forest***
 - ***Decision Tree = One model → simple but unstable.***  
-  ***Like asking one friend for advice. If that friend is wrong, you get the wrong answer.***   
+  ***Like asking one friend for advice. If that friend is wrong, you get the wrong answer.***
+  
 - ***Random Forest = Many trees → strong, accurate, and stable.***  
   ***Like asking 100 friends for advice. You take the majority opinion → more reliable.***   
 
