@@ -31,6 +31,13 @@
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Random%20Forest/images/img02.png" width="720">  
 
 ---
+### ***Decision Tree vs Random Forest***
+- ***Decision Tree = One model → simple but unstable.***  
+  ***Like asking one friend for advice. If that friend is wrong, you get the wrong answer.***   
+- ***Random Forest = Many trees → strong, accurate, and stable.***  
+  ***Like asking 100 friends for advice. You take the majority opinion → more reliable.***   
+
+---
 ### ***Author***
 ***MD. RAFIQUL ISLAM***  
 ***CSE, CoU***  
