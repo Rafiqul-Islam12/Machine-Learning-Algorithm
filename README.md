@@ -25,7 +25,7 @@
     - [***Random Forest***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Random%20Forest)
   - ***Boosting***
     - [***AdaBoost***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/AdaBoost%20Algorithm)
-    - [***Gradient Boosting***]()
+    - [***Gradient Boosting***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Gradient%20Boosting)
     - [***XGBoost***]()
 ---
 ### ***Feature-Engineering***
