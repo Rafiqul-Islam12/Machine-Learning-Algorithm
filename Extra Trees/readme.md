@@ -1,4 +1,4 @@
-***Extra Trees stands for Extremely Randomized Trees. It is an ensemble learning method used for regression and classification, very similar to Random Forest, but with more randomness.***  
+***`Extra Trees` stands for `Extremely Randomized Trees`. It is an ensemble learning method used for regression and classification, very similar to Random Forest, but with more randomness.***  
 
 ---
 ### ***Main Mechanism***
