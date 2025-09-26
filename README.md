@@ -23,6 +23,7 @@
 - [***Ensemble Learning***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Ensemble%20Learning)
   - ***Bagging***
     - [***Random Forest***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Random%20Forest)
+    - [***Extra Trees***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Extra%20Trees/Extra%20Trees%20Classifier.ipynb)
   - ***Boosting***
     - [***AdaBoost***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/AdaBoost%20Algorithm)
     - [***Gradient Boosting***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Gradient%20Boosting)
