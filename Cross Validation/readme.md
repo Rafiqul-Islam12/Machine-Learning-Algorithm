@@ -29,7 +29,8 @@
 ---
 ### ***Stratified K-Fold Cross-Validation***
 ***`Same as K-Fold`, but ensures each fold has the same class distribution as the original dataset.***   
-- ***`Best for` imbalanced datasets.*** 
+- ***`Best for` imbalanced datasets.***
+- ***`Used for` Binary classification (yes/no, spam/ham) problems.***  
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cross%20Validation/images/img02.png" width="420">
 
 ***For example,  
