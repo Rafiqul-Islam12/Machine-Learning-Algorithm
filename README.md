@@ -11,7 +11,19 @@
 - [***Overfitting and Underfitting Concepts***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Regression%20Analysis/Overfitting%20and%20Underfitting%20Concepts.ipynb)
 - [***Train-Test Split***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Regression%20Analysis/Train-Test%20Split.ipynb)
 - [***Pearson Correlation Coefficient***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Regression%20Analysis/Pearson%20Correlation%20Coefficient.ipynb)
+
+---
+### ***ML Model Evaluation***
 - [***Confusion Matrix***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
+  - [***Accuracy***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix) 
+  - [***Precision***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
+  - [***Recall***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
+  - [***F1-Score***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
+- [***Cross Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
+  - [***K-Fold Cross-Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
+  - [***Stratified K-Fold Cross-Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
+  - [***Leave-One-Out Cross-Validation (LOOCV)***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
+
 ---
 ### ***Classification Algorithm***
 - [***K-Nearest Neighbor(KNN)***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/K-Nearest%20Neighbor(KNN))
