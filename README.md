@@ -50,6 +50,13 @@ import seaborn as sns
 import warnings as wr
 wr.filterwarnings('ignore')
 ```
+
+### ***Create a Synthetic Datasets***  
+```python
+from sklearn.datasets import make_classification
+X, y =make_classification(n_samples=1000, n_features=10, n_classes=2, random_state=42)
+```
+
 ### ***Train-Test Split***  
 ```python
 from sklearn.model_selection import train_test_split
@@ -69,6 +76,13 @@ r2_score(actual_y, reg.predict(X_test))
 ```
 ```python
 model.score(X_train,y_train)
+```
+### ***Analysing Correlation Using Heatmap***  
+```python
+plt.figure(figsize=(6,4))
+sns.heatmap(data.corr(), 
+            annot=True, 
+            cmap="Reds")
 ```
 
 ### ***Confusion Matrix***  
