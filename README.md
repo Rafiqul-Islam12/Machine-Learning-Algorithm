@@ -15,14 +15,14 @@
 ---
 ### ***ML Model Evaluation***
 - [***Confusion Matrix***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
-  - [***Accuracy***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix) 
-  - [***Precision***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
-  - [***Recall***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
-  - [***F1-Score***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Confusion%20Matrix)
+  - ***Accuracy***
+  - ***Precision***
+  - ***Recall***
+  - ***F1-Score***
 - [***Cross Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
-  - [***K-Fold Cross-Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
-  - [***Stratified K-Fold Cross-Validation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
-  - [***Leave-One-Out Cross-Validation (LOOCV)***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cross%20Validation)
+  - ***K-Fold Cross-Validation***
+  - ***Stratified K-Fold Cross-Validation***
+  - ***Leave-One-Out Cross-Validation (LOOCV)***
 
 ---
 ### ***Classification Algorithm***
