@@ -52,6 +52,13 @@
 - [***Hashing Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/7.%20Hashing%20Encoder.ipynb)
 
 ---
+### ***Feature Selection Techniques***
+- [***Feature Selection Techniques***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Feature%20Selection%20Techniques.ipynb)
+   - ***Univariate Selection***  
+   - ***Feature Importance***
+   - ***Correlation Matrix with Heat Map***
+
+---
 # Important Syntex
 ### ***Import Libraries***  
 ```python
