@@ -53,9 +53,9 @@
 
 ***Inertia computes how far the data points in a cluster are from the centroid of that cluster.***    
 ***More precisely:***   
-- ***For each cluster, inertia calculates the distance of every point from the cluster centroid***    
-- ***These distances are then summed up***   
-- ***Finally, the sum is taken over all clusters***    
+- ***`For each cluster, inertia calculates the distance of every point from the cluster centroid`***    
+- ***`These distances are then summed up`***   
+- ***`Finally, the sum is taken over all clusters`***    
   
 ***Mathematically, inertia is the sum of intracluster distances.***    
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cluster%20Analysis/image/img06.jpg" width=620>   
