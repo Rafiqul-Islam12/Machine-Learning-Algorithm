@@ -31,7 +31,13 @@ $$
 - **Small K → Model is more sensitive to noise (overfit).**  
 - **Large K → Model is smoother but may ignore local patterns (underfit).**  
 
-**Common practice: Use cross-validation to find the K that gives the best performance on validation data.**   
+***Chossing Best K***  
+**Rule of thumb: K ≈ √N**   
+**or, Performs Cross-Validation**     
+
+- ***K ছোট → overfitting***
+- ***K বড় → underfitting***
+- ***CV মাঝামাঝি balanced K খুঁজে দেয়***  
 
 **`Step 3:`** **Making Predictions**  
 **For Regression, take the average (mean) of the values of the K nearest neighbors.**  
