@@ -1,5 +1,8 @@
 ### ***Naive Bayes is a machine learning algorithm that `uses probability` to classify data. It’s `based on Bayes’ Theorem`, a formula for calculating conditional probabilities.***  
 
+***“Naive Bayes = Bayes theorem + Feature Independence”***  
+***সব feature একে অপরের থেকে independent.***
+
 ---
 ### ***Types Naive Bayes***
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Naive%20Bayes/images/img02.png" width="500"> 
