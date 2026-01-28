@@ -31,6 +31,10 @@
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Voting%20Ensemble/images/img02.png" width="800"> 
 
 ---
+## ***For Regression***  
+***The prediction output is the average of each model.***
+
+---
 ## ***Why Use Voting Classifiers?***
 ***Voting classifiers improve performance when individual models have different decision boundaries. Here are some key benefits:***   
 - ***Single model এর weakness কমায়***
@@ -64,4 +68,16 @@
 - ***Yes = 1 + 3 = 4***
 - ***No = 1***
 - ***Final Prediction = Yes***
- 
+
+---
+### ***How to assign weight?***
+- ***Validation Accuracy***
+- ***Cross-validation score***
+- ***Manually (Domain knowledge)***  
+  ***Medical diagnosis → Logistic > KNN***  
+  ***Text classification → Naive Bayes > Tree***   
+
+ ---
+### ***Author***
+***Md. Rafiqul Islam***   
+***CSE, CoU***
