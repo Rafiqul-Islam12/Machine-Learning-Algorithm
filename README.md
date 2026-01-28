@@ -40,6 +40,8 @@
     - [***AdaBoost***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/AdaBoost%20Algorithm)
     - [***Gradient Boosting***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Gradient%20Boosting)
     - [***XGBoost***]()
+  - ***Voting***
+    - [***Voting Ensemble***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Voting%20Ensemble)
 - [***Naive Bayes***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Naive%20Bayes)
 ---
 ### ***Feature-Engineering***
