@@ -66,6 +66,10 @@
    - [***K-Means Cluster***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cluster%20Analysis/K-Means%20Cluster.ipynb)  
 
 ---
+### ***Semi-Supervised Learning***  
+- [***Label Propagation***]()   
+
+---
 # Important Syntex
 ### ***Import Libraries***  
 ```python
