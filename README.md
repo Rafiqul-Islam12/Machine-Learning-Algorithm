@@ -67,7 +67,7 @@
 
 ---
 ### ***Semi-Supervised Learning***  
-- [***Label Propagation***]()   
+- [***Label Propagation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Label%20Propagation)   
 
 ---
 # Important Syntex
