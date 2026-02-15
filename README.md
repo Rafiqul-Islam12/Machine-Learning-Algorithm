@@ -62,8 +62,9 @@
 
 ---
 ### ***Unsupervised learning***
-- [***Cluster Analysis***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cluster%20Analysis)
-   - [***K-Means Cluster***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cluster%20Analysis/K-Means%20Cluster.ipynb)  
+- ***Cluster Analysis***
+   - [***K-Means Cluster***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cluster%20Analysis/K-Means%20Cluster.ipynb)
+   - [***DBSCAN Clustering***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/DBSCAN%20Clustering)   
 
 ---
 ### ***Semi-Supervised Learning***  
