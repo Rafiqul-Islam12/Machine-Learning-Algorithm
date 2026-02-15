@@ -63,8 +63,10 @@
 ---
 ### ***Unsupervised learning***
 - ***Cluster Analysis***
-   - [***K-Means Cluster***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Cluster%20Analysis/K-Means%20Cluster.ipynb)
-   - [***DBSCAN Clustering***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/DBSCAN%20Clustering)   
+   - [***K-Means Cluster***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Cluster%20Analysis)
+   - [***DBSCAN Clustering***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/DBSCAN%20Clustering)
+- ***Dimensionality Reduction Technique***  
+   - [***Principal Component Analysis (PCA)***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Principal%20Component%20Analysis%20(PCA))   
 
 ---
 ### ***Semi-Supervised Learning***  
