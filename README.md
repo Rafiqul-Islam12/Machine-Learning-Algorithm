@@ -71,6 +71,11 @@
 ---
 ### ***Semi-Supervised Learning***  
 - [***Label Propagation***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Label%20Propagation)   
+   
+---
+### ***Reinforcement Learning***     
+- [***Q-Learning Algorithm***](https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/tree/main/Q-Learning%20Algorithm)   
+- [***Proximal Policy Optimization (PPO)***](https://github.com/Rafiqul-Islam12/Reinforcement-Learning-Algorithm/tree/main/Proximal%20Policy%20Optimization)  
 
 ---
 # Important Syntex
