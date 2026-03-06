@@ -45,13 +45,17 @@
 - [***Naive Bayes***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Naive%20Bayes)
 ---
 ### ***Feature-Engineering***
-- [***Handling NaN Values***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/1.%20Handling%20NaN%20Values.ipynb)
-- [***Encoding Without Encoder Techniques***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/2.%20Encoding%20Without%20%20Encoder%20Techniques.ipynb)
-- [***Label Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/3.%20Label%20Encoder.ipynb)
-- [***One-Hot Encoding***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/4.%20One-Hot%20Encoding.ipynb)
-- [***Binary Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/5.%20%20Binary%20Encoder.ipynb)
-- [***Ordinal Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/6.%20Ordinal%20Encoder.ipynb)
-- [***Hashing Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/7.%20Hashing%20Encoder.ipynb)
+- ***Encoder Techniques***   
+  - [***Handling NaN Values***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/1.%20Handling%20NaN%20Values.ipynb)
+  - [***Encoding Without Encoder Techniques***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/2.%20Encoding%20Without%20%20Encoder%20Techniques.ipynb)
+  - [***Label Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/3.%20Label%20Encoder.ipynb)
+  - [***One-Hot Encoding***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/4.%20One-Hot%20Encoding.ipynb)
+  - [***Binary Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/5.%20%20Binary%20Encoder.ipynb)
+  - [***Ordinal Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/6.%20Ordinal%20Encoder.ipynb)
+  - [***Hashing Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/7.%20Hashing%20Encoder.ipynb)
+- [***Imbalanced Datasets Handling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/tree/main/Handling%20Imbalanced%20Data)  
+  - [***Undersampling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/1.%20Undersampling.ipynb)   
+  - [***Oversampling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/2.%20Oversampling.ipynb)   
 
 ---
 ### ***Feature Selection Techniques***
