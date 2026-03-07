@@ -55,7 +55,8 @@
   - [***Hashing Encoder***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/7.%20Hashing%20Encoder.ipynb)
 - [***Imbalanced Datasets Handling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/tree/main/Handling%20Imbalanced%20Data)  
   - [***Undersampling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/1.%20Undersampling.ipynb)   
-  - [***Oversampling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/2.%20Oversampling.ipynb)   
+  - [***Oversampling***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/2.%20Oversampling.ipynb)
+  - [***SMOTE***](https://github.com/Rafiqul-Islam12/Feature-Engineering/blob/main/Handling%20Imbalanced%20Data/3.%20SMOTE.ipynb)   
 
 ---
 ### ***Feature Selection Techniques***
