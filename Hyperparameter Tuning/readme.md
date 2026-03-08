@@ -30,6 +30,15 @@
 <img src="https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Hyperparameter%20Tuning/images/img2.png" width="800">  
 
 ---
+# ***Resources***
+- ***CampusX***  
+  [***Class***](https://www.youtube.com/watch?v=4Im0CT43QxY)      
+  [***Code***](https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day65-random-forest/code-example-random-forest.ipynb)   
+- ***STUDY MART***   
+  [***Class***](https://www.youtube.com/watch?v=wYpkuzuCdbw)     
+  [***Code***](https://github.com/rashakil-ds/Hyperparameter-Optimization-ML/blob/main/Random%20Forest%20%26%20HyperparameterTuning.ipynb)    
+
+---
 ### ***Author***  
 ***MD. RAFIQUL ISLAM***  
 ***CSE, CoU***  
