@@ -46,6 +46,7 @@
 
 ---
 ### ***Hyperparameter Tuning***
+- [***Theory***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/tree/main/Hyperparameter%20Tuning)   
 - [***GridSearchCV***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Hyperparameter%20Tuning/1.%20GridSearchCV.ipynb)
 - [***RandomSearchCV***](https://github.com/Rafiqul-Islam12/Machine-Learning-Algorithm/blob/main/Hyperparameter%20Tuning/2.%20RandomSearchCV.ipynb)
 
